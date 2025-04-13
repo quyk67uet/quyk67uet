@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Minh Qúy</h1>
-<h3 align="center">Interested in AI Engineer, Data Engineer and AIOps</h3>
+<h3 align="center">Interested in AI Engineer, Software Engineer and AIOps</h3>
 
-- 🔭 I’m currently working in the field of **AI and Data Engineer.**
+- 🔭 I’m currently working in the field of **AI and Software Engineer.**
 
 - 🌱 I'm pursuing Bachelor's Degree in Computer Science at **University of Engineering and Technology (UET-VNU)**
 
